@@ -5,11 +5,13 @@ There are two jupyter notebooks, the one titles 'GDP vs GDP per capita' aims to 
 
 Becuase training takes a long time, I used a package called joblib to save the models so the code will run faster. If you want to run the training yourself, simply uncomment the relevent code and comment out the jb.load function that load in the models.
 
-Data Used for this project:
 Population Data:
+
 Institute for Health Metrics and Evaluation (IHME). Global Fertility, Mortality, Migration, and Population Forecasts 2017-2100. Seattle, United States of America: Institute for Health Metrics and Evaluation (IHME), 2020.
 https://ghdx.healthdata.org/record/ihme-data/global-population-forecasts-2017-2100
 
 Co2 Data:
-Hannah Ritchie, Pablo Rosado, and Max Roser (2023) - “CO₂ and Greenhouse Gas Emissions” Published online at OurWorldinData.org. 
-Retrieved from: 'https://ourworldindata.org/co2-and-greenhouse-gas-emissions' [Online Resource]
+
+Hannah Ritchie, Pablo Rosado, and Max Roser (2023) - “CO₂ and Greenhouse Gas Emissions” Published online at OurWorldinData.org.
+
+Retrieved from: 'https://ourworldindata.org/co2-and-greenhouse-gas-emissions'
